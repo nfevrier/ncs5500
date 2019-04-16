@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: '2019-04-12 17:00 +0200'
 title: NCS5500 QoS Part 1 - Understanding Packet Buffering
 author: Nicolas Fevrier
